@@ -25,3 +25,16 @@ const personJohn: Orang = {
   gender: EGender.MALE
 }
 console.info('personJohn', personJohn);
+
+/**
+ * Assignment
+ * Create modelling for Car and create some instances
+ */
+
+/**
+ * Assignment Modelling x Iteration
+ * 1. Buat list mobil
+ * 2. Showroom khusus mobil warna kuning
+ * 3. Calon pembeli mau cek, apakah ada mobil warna warni?
+ * 4. Calon pembeli mau cek, apakah ada mobil yang hanya satu warna?
+ */

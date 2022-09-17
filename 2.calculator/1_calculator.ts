@@ -35,3 +35,7 @@ console.info('x / y');
 console.info('Result: ', divide(x, y));
 
 console.info('=====================');
+
+/**
+ * Buat fungsi penjumlahan yang bisa menerima banyak data angka (sesuai yang diinput user)
+ */
