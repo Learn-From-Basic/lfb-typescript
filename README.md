@@ -1,5 +1,6 @@
 # lfb-typescript
 
+0. Preparation (nvm, typescript)
 1. Variable (1 day)
 2. Basic - Calculator, If Else, ... (1 day)
 3. Algoritma & Flow Chart (1 day)
